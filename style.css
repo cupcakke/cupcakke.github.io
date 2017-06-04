@@ -1,0 +1,47 @@
+.img {
+  display: block;
+    margin: advvvuto;
+    width: 30%;
+}
+h1 {
+  text-align: center;
+  font-family: "Arial", sans-serif;
+  font-size: 40pt;
+  font-weight: bold;
+  font-style: normal;
+}
+h2 {
+  text-align: center;
+  font-family: "Courier", monospace;
+  font-size: 12pt;
+  font-weight: normal;
+  font-style: normal;
+}
+body {
+  width: auto;
+  display: flex;
+  flex-flow: column nowrap;
+}
+header, section {
+  width: auto;
+  display: flex;
+  flex-flow: column;
+}
+.container-fluid {
+  width: auto;
+}
+.jumbotron {
+  display: flex;
+  flex-flow: column nowrap;
+  align-items: center;
+}
+.profile {
+  margin: auto;
+  width: 206px;
+  height: 220px;
+  padding: 3px;
+}
+.profile-picture {
+  margin: auto;
+  width: 200px;
+}
